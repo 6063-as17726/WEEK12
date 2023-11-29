@@ -1,4 +1,4 @@
-let SERVER_ADDRESS = "http://192.168.1.239/data";
+let SERVER_ADDRESS = "http://16:26:03.994/data";
 
 let readyToLoad;
 let cBackgroundColor;
